@@ -1,125 +1,54 @@
-<!-- ========================================================= -->
-<!--                     REPOSITORY BANNER                     -->
-<!-- ========================================================= -->
+<p align="center">
+  <img src="BANNER_Learning-Games-Prompts.png" width="85%" alt="Learning Games Prompt Library Banner">
+</p>
 
-<h1 align="center">
-  🎮 Learning Games Prompts  
-</h1>
+<h1 align="center">Learning Games Prompt Library</h1>
+<h3 align="center">By Scott Malin — Cybersecurity & Automation Architect</h3>
 
 <p align="center">
-  A collection of gamified learning engines, interactive tutors, and scenario‑driven educational prompts.  
-  Designed to make technical learning engaging, memorable, and fun.
+Gamified AI prompts that teach through play, challenge, and guided exploration.
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Last_Updated-2026--01--28-blue?style=for-the-badge">
+  <img src="https://img.shields.io/badge/License-MIT-green?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Category-Learning_Games-purple?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Type-AI_Frameworks-orange?style=for-the-badge">
 </p>
 
 ---
 
-<!-- ========================================================= -->
-<!--                           BADGES                           -->
-<!-- ========================================================= -->
+# ⭐ Featured Game Prompt
 
-<p align="center">
-
-  <!-- License -->
-  <img src="https://img.shields.io/badge/License-MIT-blue.svg" alt="License: MIT">
-
-  <!-- Repo Status -->
-  <img src="https://img.shields.io/badge/Status-Active-brightgreen.svg" alt="Status: Active">
-
-  <!-- Category -->
-  <img src="https://img.shields.io/badge/Category-Learning%20Games-yellow.svg" alt="Category: Learning Games">
-
-  <!-- Stars -->
-  <img src="https://img.shields.io/github/stars/scottmalin68-commits/Learning-Games-prompts?style=social" alt="GitHub Stars">
-
-  <!-- Last Updated -->
-  <img src="https://img.shields.io/github/last-commit/scottmalin68-commits/Learning-Games-prompts" alt="Last Updated">
-
-  <!-- Languages -->
-  <img src="https://img.shields.io/github/languages/top/scottmalin68-commits/Learning-Games-prompts" alt="Top Language">
-
-</p>
+### [Your flagship game].md  
+**Goal:** [One‑sentence purpose.]
 
 ---
 
-## 🎯 Purpose
+# 📁 Repository Structure
 
-This repository contains **game‑based learning prompts** that transform technical education into interactive experiences.  
-These prompts blend:
-
-- Structured reasoning  
-- Humor and narrative  
-- Skill progression  
-- Achievements and XP  
-- Boss battles  
-- Procedural challenges  
-
-Each file includes a clear **Goal** so users understand the intended learning outcome.
+(Include your game prompt catalog with goal statements.)
 
 ---
 
-## 📂 Prompt Catalog
+# 🕒 Version History / Changelog
 
-### **SQL Learning Game Engine (v0.1 – v0.3)**
-**Goal:** Teach SQL fundamentals through an RPG‑style progression system with XP, achievements, boss battles, and adaptive difficulty.
-
-### **SQL Learning Game Engine – Boss Battles**
-**Goal:** Provide high‑pressure SQL challenges that test mastery before advancing to new zones.
-
-### **SQL Learning Game Engine – Achievements & XP System**
-**Goal:** Reward progress with badges, milestones, and skill‑based unlocks.
-
-### **SQL Learning Game Engine – Skill Trees**
-**Goal:** Allow learners to choose specialization paths (Querying, Joins, Optimization, etc.) and unlock abilities.
-
-### **SQL Learning Game Engine – Procedural Dungeons**
-**Goal:** Generate randomized SQL challenges for replayability and skill reinforcement.
-
-### **SQL Learning Game Engine – Companions & Party System**
-**Goal:** Introduce AI companions that provide hints, buffs, or comedic relief during SQL challenges.
-
-### **SQL Learning Game Engine – Daily Quests**
-**Goal:** Provide short, repeatable SQL tasks to encourage consistent practice.
-
-### **Explain It Wrong – Learning Edition**
-**Goal:** Strengthen understanding by reviewing intentionally incorrect explanations and identifying the errors.
-
-### **Interactive Tutor – General Learning**
-**Goal:** Offer a conversational tutor that adapts to the learner’s skill level and provides guided instruction.
+### v1.3 — January 2026  
+- Added Cyber Blue banner  
+- Unified README structure  
+- Featured game section added  
+- Cross‑repo links standardized
 
 ---
 
-## 🧩 Who This Is For
+# 🔗 Cross‑Links
 
-- Students learning SQL or technical fundamentals  
-- Educators seeking interactive teaching tools  
-- Professionals refreshing their skills  
-- Anyone who learns best through play, challenge, and narrative  
-
----
-
-## 🚀 How to Use
-
-Open any prompt file and follow the instructions.  
-Most prompts are interactive and adapt to the learner’s responses, choices, and performance.
+- Cybersecurity Prompts → https://github.com/scottmalin68-commits/Cybersecurity-Prompts  
+- PowerShell Toolkit → https://github.com/scottmalin68-commits/Powershell_Scripts  
+- Misc Prompts → https://github.com/scottmalin68-commits/Misc-AI-Prompts  
+- Profile → https://github.com/scottmalin68-commits
 
 ---
 
-## 🔗 Related Repositories
-
-- **Misc AI Prompts**  
-  Cognitive load tools, reasoning engines, and general AI utilities  
-  https://github.com/scottmalin68-commits/Misc-AI-Prompts
-
-- **Cybersecurity Learning Prompts**  
-  Gamified security reasoning and scenario‑based learning  
-  https://github.com/scottmalin68-commits/Cybersecurity-Learning-Prompts
-
-- **Azure‑Related Prompts**  
-  Identity, access, and cloud policy analysis tools  
-  https://github.com/scottmalin68-commits/Azure-Related-Prompts
-
----
-
-## 📜 License
-
-MIT License
+# 📜 License  
+MIT License — see `LICENSE` for details.
