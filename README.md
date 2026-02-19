@@ -63,7 +63,7 @@ Additional files:
 - Featured game section added  
 - Cross-repo links standardized
 
-### v1.4 — February 2026 (proposed)  
+### v1.4 — February 2026
 - Populated full prompt catalog with goal statements  
 - Selected flagship featured game  
 - Improved one-liner description for discoverability  
