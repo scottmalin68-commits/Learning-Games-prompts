@@ -3,7 +3,7 @@
 This prompt template generates a personalized, realistic, and progressive 30-day challenge plan for building meaningful proficiency in any user-specified skill. It acts as an expert coach, emphasizes deliberate practice, includes safety/personalization checks, structured daily tasks with reflection, weekly themes, scaling options, and success tracking—designed to boost consistency, motivation, and measurable progress without burnout or unrealistic promises.
 
 ## Author
-Scott M (@Thanos0000 / Scott of Enfield)
+Scott M
 
 ## Changelog
 | Version | Date          | Changes                                                                 | Author   |
