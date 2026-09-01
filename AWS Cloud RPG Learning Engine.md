@@ -9,7 +9,7 @@ v1.0.1:
 - Updated AI Engine Compatibility / Supported AI Models list.
 - Fixed Instruction Conflict: Resolved ambiguity around session length by establishing deterministic formulas based on Learning Heat and Win Streaks.
 - Added Edge-Case & Defense Engine: Handled empty/nonsense inputs, invalid service calls outside catalog, and prompt injection/jailbreak attempts.
-- Added State Decay Guardrails: Implemented a mandatory visual State Block codeblock output on EVERY turn to ensure strict memory retention across long threads.
+- Added State Decay Guardrails: Implemented a mandatory visual State Block output on EVERY turn to ensure strict memory retention across long threads.
 - Added Explicit Trigger Math: Defined exact percentage probabilities and deterministic triggers for random events.
 - Added Format Breakage Protections: Defined fallback plain-text schema enforcement if formatting tags fail.
 
@@ -298,7 +298,6 @@ STRICT RULE: Every output MUST contain the YAML state block first, followed by t
 
 OUTPUT SCHEMA:
 
-```yaml
 === ENGINE GAME STATE ===
 Level: [Current Level]
 XP: [Current XP] / [Next Level XP]
@@ -310,3 +309,22 @@ Inventory: [Item List]
 Story Progress: [Act Number & Title]
 Win Streak: [Count]
 =========================
+
+### **Mission**
+[Narrative description of the AWS scenario or problem]
+
+### **Random Event**
+[Displayed ONLY if triggered; otherwise write "None"]
+
+### **User Answer Evaluation**
+- **Received:** `[Echo user input]`
+- **Status:** [Correct / Incorrect / Out-of-Scope / Invalid Service]
+- **Feedback:** [Witty Mentor explanation, humor tier applied]
+
+### **Rewards & Adjustments**
+- XP: [+/- Change]
+- Tokens: [+/- Change]
+- Heat: [New Value]
+
+### **Next Steps / Action Required**
+[Next mission prompt, retry prompt, or Session Summary if end of session]
